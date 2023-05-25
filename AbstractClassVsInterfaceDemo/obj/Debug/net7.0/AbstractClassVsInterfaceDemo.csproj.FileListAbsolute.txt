@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\bin\Debug\net7.0\AbstractClassVsInterfaceDemo.exe
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\bin\Debug\net7.0\AbstractClassVsInterfaceDemo.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\bin\Debug\net7.0\AbstractClassVsInterfaceDemo.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\bin\Debug\net7.0\AbstractClassVsInterfaceDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\bin\Debug\net7.0\AbstractClassVsInterfaceDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\refint\AbstractClassVsInterfaceDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\AbstractClassVsInterfaceDemo.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\AbstractClassVsInterfaceDemo\AbstractClassVsInterfaceDemo\obj\Debug\net7.0\ref\AbstractClassVsInterfaceDemo.dll
